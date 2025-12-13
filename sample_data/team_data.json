@@ -1,0 +1,30 @@
+{
+  "work_types": [
+    "Catalog Planning",
+    "Creation SME",
+    "Review SME",
+    "AU Review",
+    "Translation",
+    "CA",
+    "Voiceover",
+    "Visual Design",
+    "Subtitles",
+    "Add to Docebo",
+    "Add to Page",
+    "Ref Env",
+    "CPQ",
+    "Miscellaneous"
+  ],
+  "employees": [
+    {"id": "dsmith", "name": "Don", "role": "LXO"},
+    {"id": "tmartin", "name": "Tom", "role": "SME"},
+    {"id": "ajones", "name": "Alex", "role": "LPO"}
+  ],
+  "campuses": ["Tech"],
+  "offers": ["Amplify API Management"],
+  "sub_offers": ["B2Bi", "EDIF", "PeSIT", "SFTP"],
+  "effort_types": ["Create", "Update"],
+  "course_types": ["eLearning", "ILT"],
+  "project_statuses": ["Not Started", "In Progress", "Complete"],
+  "tags": []
+}

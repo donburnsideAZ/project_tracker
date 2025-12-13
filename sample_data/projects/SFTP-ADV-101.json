@@ -1,0 +1,28 @@
+{
+  "id": "SFTP-ADV-101",
+  "name": "SFTP Advanced Configuration",
+  "campus": "Tech",
+  "offer": "Amplify API Management",
+  "sub_offer": "SFTP",
+  "course_id": "SFTP-ADV-101",
+  "effort_type": "Create",
+  "course_type": "eLearning",
+  "status": "In Progress",
+  "course_duration_minutes": 45,
+  "target_hours": 8.0,
+  "lpo": "ajones",
+  "sme": "tmartin",
+  "lxo": "dsmith",
+  "tms": [
+    {"number": 1, "name": "Introduction & Overview", "status": "Complete"},
+    {"number": 2, "name": "Basic Configuration", "status": "Complete"},
+    {"number": 3, "name": "Security Settings", "status": "In Progress"},
+    {"number": 4, "name": "Advanced Options", "status": "Not Started"},
+    {"number": 5, "name": "Troubleshooting", "status": "Not Started"}
+  ],
+  "tags": [],
+  "created_at": "2025-12-01T09:00:00Z",
+  "created_by": "dsmith",
+  "modified_at": "2025-12-06T14:30:00Z",
+  "modified_by": "dsmith"
+}

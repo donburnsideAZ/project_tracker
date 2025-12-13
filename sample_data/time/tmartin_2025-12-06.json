@@ -1,0 +1,16 @@
+{
+  "user_id": "tmartin",
+  "date": "2025-12-06",
+  "entries": [
+    {
+      "id": "entry-005",
+      "project_id": "SFTP-ADV-101",
+      "work_type": "Review SME",
+      "start_time": "2025-12-06T10:00:00",
+      "end_time": "2025-12-06T12:00:00",
+      "duration_minutes": 120,
+      "notes": "Technical review",
+      "created_at": "2025-12-06T12:00:00"
+    }
+  ]
+}

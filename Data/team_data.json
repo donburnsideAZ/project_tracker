@@ -1,0 +1,38 @@
+{
+  "work_types": [
+    "Catalog Planning",
+    "Creation SME",
+    "Review SME",
+    "AU Review",
+    "Translation",
+    "CA",
+    "Voiceover",
+    "Visual Design",
+    "Subtitles",
+    "Add to Docebo",
+    "Add to Page",
+    "Ref Env",
+    "CPQ",
+    "Miscellaneous"
+  ],
+  "employees": [],
+  "campuses": [
+    "Tech"
+  ],
+  "offers": [],
+  "sub_offers": [],
+  "effort_types": [
+    "Create",
+    "Update"
+  ],
+  "course_types": [
+    "eLearning",
+    "ILT"
+  ],
+  "project_statuses": [
+    "Not Started",
+    "In Progress",
+    "Complete"
+  ],
+  "tags": []
+}
