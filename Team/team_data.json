@@ -1,0 +1,49 @@
+{
+  "work_types": [
+    "Planning",
+    "Creation",
+    "Review",
+    "Production",
+    "Admin",
+    "Meetings",
+    "Miscellaneous"
+  ],
+  "employees": [],
+  "project_statuses": [
+    "Not Started",
+    "In Progress",
+    "Complete"
+  ],
+  "tags": [],
+  "project_fields": [
+    {
+      "key": "category",
+      "label": "Category",
+      "values": []
+    },
+    {
+      "key": "priority",
+      "label": "Priority",
+      "values": [
+        "Low",
+        "Medium",
+        "High"
+      ]
+    }
+  ],
+  "team_roles": [
+    "Owner",
+    "Contributor",
+    "Reviewer"
+  ],
+  "optional_tab": {
+    "enabled": true,
+    "type": "chunking_guide",
+    "label": "Chunking Guide"
+  },
+  "campuses": [],
+  "offers": [],
+  "sub_offers": [],
+  "effort_types": [],
+  "course_types": []
+}
